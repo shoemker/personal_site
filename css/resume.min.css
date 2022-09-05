@@ -6,8 +6,9 @@
 
 
  #fa-resume {
-	height: 73px;
+	height: 76px;
 	width: 73px;
+	/* vertical-align: -1px; */
 }
 
 .project-img {
